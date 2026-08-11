@@ -641,11 +641,18 @@ Through this analysis, the project provides a structured approach to understandi
 
 ---
 
-## 📜 License
+## Output
+<img width="567" height="451" alt="bd1" src="https://github.com/user-attachments/assets/4717fc33-c4b6-436f-b5c7-244f95c230c2" />
+<img width="589" height="414" alt="bd2" src="https://github.com/user-attachments/assets/1cae613f-0f04-4b98-845d-9a95570be3ac" />
+<img width="593" height="452" alt="bd3" src="https://github.com/user-attachments/assets/31921b7b-b5f9-4475-ac04-2108f7866448" />
+<img width="589" height="453" alt="bd4" src="https://github.com/user-attachments/assets/082af440-e40a-4ef7-97de-2e64d2c9748b" />
+<img width="573" height="459" alt="bd5" src="https://github.com/user-attachments/assets/4b684012-6412-4aca-abf3-bd92f88f33b0" />
+<img width="712" height="468" alt="bd6" src="https://github.com/user-attachments/assets/1a4eee0a-95c2-49ee-9db6-a45337cabd59" />
+<img width="734" height="560" alt="bd7" src="https://github.com/user-attachments/assets/caf3b10f-92df-4d78-8252-45e8bac4c71d" />
+<img width="600" height="503" alt="bd8" src="https://github.com/user-attachments/assets/3d614ef4-c852-4588-94d6-0f99b5fefa23" />
 
-This project is intended for educational and academic purposes.
 
----
+
 
 ## ⭐ Conclusion
 
